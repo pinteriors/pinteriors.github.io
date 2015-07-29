@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2015-06-02
+img: arnold.jpg
+alt: image-alt
+project-date: May 2015
+client: Mr Arnold
+category: Kitchen Interior Designing
+description: Combination of Cream & Chocolate color in PU finish
+
+---

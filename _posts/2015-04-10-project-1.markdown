@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-04-10
+img: rupani.png
+alt: image-alt
+project-date: March 2015
+client: Mr. Rupani
+category: Bedroom Interior Designing
+description: Entire Bedroom Designing
+
+---
